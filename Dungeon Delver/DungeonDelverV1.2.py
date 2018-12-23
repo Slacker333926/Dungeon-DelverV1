@@ -1,4 +1,5 @@
 #This is a comment to test the test branch
+#It worked
 
 #Throughout this whole program, some code is oddly placed and grouped, so just follow the comments
 #To avoid confusion, the 'Player' class is the knight
